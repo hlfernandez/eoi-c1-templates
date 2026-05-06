@@ -17,12 +17,12 @@ number-sections: false
 **A:** Hi B, how are you?  
 **B:** Hi A, I’m fine, thanks. And you?  
 **A:** Fine too! Today we are going to discuss three short texts about **[topic]**.  
-First, we'll briefly comment on each one, giving our opinions, and then we’ll try to choose the one we find the most relevant. Let’s start!
+First, we'll briefly comment on each one, giving our opinions, and then we’ll try to choose the one we find the most relevant. Would you like to start with one of the texts?
 
 ---
 
 **[First Text]**  
-**A:**  
+**B:**  
 
 - "So, I'll begin with the first text. It talks about **[brief idea of text 1]**."
 - "Personally, I think it is **[interesting/important/limited]** because **[your reason]**."
@@ -31,7 +31,7 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
   - **OR** "But on the downside, **[mention a negative point]**."
 - "What do you think?"
 
-**B:** (Choose **one** reaction)
+**A:** (Choose **one** reaction)
 
 - "I see your point, and I also believe that **[build on their idea]**."
 - "That's a good point. I hadn't thought about **[mention something they said]**."
@@ -42,7 +42,7 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
 ---
 
 **[Second Text]**  
-**B:**
+**A:**
 
 - "Moving on to the second text, it focuses on **[brief idea of text 2]**."
 - "In my view, it is **[relevant/less convincing/etc.]** because **[your reason]**."
@@ -51,12 +51,12 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
   - **OR** "Still, I think it misses **[something it lacks]**."
 - "What's your opinion on this one?"
 
-**A:** (React – again, choose **one** reaction.)
+**B:** (React – again, choose **one** reaction.)
 
 ---
 
 **[Third Text]**  
-**A:**  
+**B:**  
 
 - "Finally, regarding the third text, it mentions **[brief idea of text 3]**."
 - "I find it **[compelling/problematic]** because **[your reason]**."
@@ -64,19 +64,19 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
   - "On the other hand, some people might argue that **[other perspective]**."
 - "Would you agree?"
 
-**B:** (React.)
+**A:** (React.)
 
 ---
 
 **[Ending]**
 
 ✅ **If you reach an agreement:**  
-**B:**  
+**B/A:**  
 
 - "So, it seems we both agree that the most relevant text is number **[X]**, because **[main reason]**."
 - **OR** "We’re on the same page — text number **[X]** really hits the mark."
 
-**A:** (Final brief comment — choose one)  
+**A/B:** (Final brief comment — choose one)  
 
 - "Yes, totally! I think we've made a good choice."  
 - "Exactly, it covers the topic really well."  
@@ -85,12 +85,12 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
 ---
 
 ❌ **If you don’t reach an agreement:**  
-**B:**  
+**B/A:**  
 
 - "Although we have different opinions, I think we’ve explored all three texts thoroughly."  
 - **OR** "Seems like we see it a bit differently, but it’s been a good discussion."
 
-**A:** (Final brief comment — choose one) 
+**A/B:** (Final brief comment — choose one) 
 
 - "Absolutely, it was interesting to hear your points."  
 - "Yes, we had a good exchange of ideas."  
@@ -191,7 +191,8 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
 
 ### TOPIC: INNOVATIONS
 
-You and Candidate B are attending a seminar on innovation and progress where you have encountered the following three statements.  
+You and Candidate B are attending a seminar on innovation and progress where you have encountered the following three statements.
+
 - Talk to each other about how these statements show different aspects of recent technological innovation.  
 - Then decide together which innovation you think has had the greatest impact on people's lives.
 
@@ -207,7 +208,8 @@ You don’t need to reach an agreement, but you should support your opinions wit
 
 ### TOPIC: ENVIRONMENT
 
-You and Candidate B are attending a conference on environmental protection where you have heard the following three statements.  
+You and Candidate B are attending a conference on environmental protection where you have heard the following three statements.
+
 - Talk to each other about how these statements represent different strategies to protect the environment.  
 - Then decide together which strategy you believe would be the most effective in the long term.
 
@@ -223,7 +225,8 @@ You don’t need to reach an agreement, but you should support your opinions wit
 
 ### TOPIC: EDUCATION
  
-You and Candidate B are attending a symposium on changes in education systems and have come across the following statements.  
+You and Candidate B are attending a symposium on changes in education systems and have come across the following statements. 
+
 - Talk to each other about how these statements reflect different trends in modern education.  
 - Then decide together which trend you think will have the greatest impact on future generations.
 
@@ -239,7 +242,8 @@ You don’t need to reach an agreement, but you should support your opinions wit
 
 ### TOPIC: HEALTH
 
-You and Candidate B are attending a conference on modern health challenges and have read the following statements.  
+You and Candidate B are attending a conference on modern health challenges and have read the following statements.
+
 - Talk to each other about how these statements illustrate different health-related issues.  
 - Then decide together which issue you believe is the most urgent to address.
 
@@ -255,7 +259,8 @@ You don’t need to reach an agreement, but you should support your opinions wit
 
 ### TOPIC: TRAVELLING AND TOURISM
 
-You and Candidate B are attending a forum on the future of tourism and have heard the following statements.  
+You and Candidate B are attending a forum on the future of tourism and have heard the following statements.
+
 - Talk to each other about how these statements reflect different changes in the travel industry.  
 - Then decide together which trend you believe will shape tourism the most in the next decades.
 
@@ -271,7 +276,8 @@ You don’t need to reach an agreement, but you should support your opinions wit
 
 ### TOPIC: FOOD
   
-You and Candidate B are attending a conference on food habits and sustainability and have heard these statements.  
+You and Candidate B are attending a conference on food habits and sustainability and have heard these statements.
+
 - Talk to each other about how these statements show different approaches to food and diet today.  
 - Then decide together which approach you think has the most potential for a healthier future.
 
@@ -287,7 +293,8 @@ You don’t need to reach an agreement, but you should support your opinions wit
 
 ### TOPIC: SHOPPING
 
-You and Candidate B are attending a seminar on consumer habits where you have read these statements.  
+You and Candidate B are attending a seminar on consumer habits where you have read these statements.
+
 - Talk to each other about how these statements show different shopping trends.  
 - Then decide together which trend you believe will have the biggest impact on the economy.
 
@@ -303,7 +310,8 @@ You don’t need to reach an agreement, but you should support your opinions wit
 
 ### TOPIC: IDENTITY
 
-You and Candidate B are attending a psychology conference on identity and perception and have seen these statements.  
+You and Candidate B are attending a psychology conference on identity and perception and have seen these statements.
+
 - Talk to each other about how these statements explore different aspects of personal identity.  
 - Then decide together which aspect you think has the strongest influence on how others perceive us.
 
@@ -319,7 +327,8 @@ You don’t need to reach an agreement, but you should support your opinions wit
 
 ### TOPIC: GENDER AND AGING
 
-You and Candidate B are attending a seminar on gender and aging issues and have encountered the following statements.  
+You and Candidate B are attending a seminar on gender and aging issues and have encountered the following statements.
+
 - Talk to each other about how these statements highlight different challenges linked to gender and aging.  
 - Then decide together which challenge you feel society should address most urgently.
 
@@ -410,6 +419,7 @@ _(Just a word or two to remember.)_
 _"Today, I’d like to share some thoughts about **[topic]**. It’s a subject that raises important questions about **[short general comment on the topic]**."_
 
 Useful connectors:
+
 - "To begin with,"
 - "First of all,"
 
@@ -421,6 +431,7 @@ _"Another aspect to consider is **[second point]**, since **[reason or example]*
 _"Moreover, it’s important to highlight that **[third point if needed]**."_
 
 Useful connectors:
+
 - "I believe that..."
 - "One clear effect is that..."
 - "Another important factor is..."
@@ -432,6 +443,7 @@ _"Looking into the future, I think that **[prediction about how things might cha
 _"It is possible that **[speculative idea]**, especially if **[condition]**."_
 
 Useful connectors:
+
 - "In the future,"
 - "It is likely that..."
 - "We might see..."
@@ -441,6 +453,7 @@ Useful connectors:
 _"To sum up, **[summary of your main ideas]**. It’s clear that **[final general comment]**."_
 
 Useful connectors:
+
 - "In conclusion,"
 - "All in all,"
 - "To wrap up,"
@@ -467,12 +480,14 @@ You are at a conference about psychology trends with your partner and decide to 
 **TASK ONE: ORAL MEDIATION**
 
 Speaking time: 1–2 minutes. Talk about these points:
+
 - Explain what you have read in your own words.
 - Identify the main idea of the article.
 
 **TASK TWO: PRODUCTION**
 
 Speaking time: 2–3 minutes. Talk about the following points and support your opinions with arguments:
+
 - Discuss the effects of hiding your personality.
 - Make predictions and speculate about what the situation may be like in the future.
 
@@ -496,9 +511,6 @@ Another important effect is that relationships might become superficial. If we a
 Looking into the future, I think that people may feel increasingly free to express their true identities. With growing awareness around diversity and inclusion, it is likely that social acceptance will improve. However, there might still be resistance in certain environments, especially where traditional norms are deeply rooted.
 
 To sum up, hiding aspects of identity can have serious personal and social consequences, but the situation may evolve positively in the future if attitudes continue to change.
-
-Would you also like me to prepare the **two clean templates** (mediation + production) in the same no-emoji style, ready for you to include in your GitHub?  
-It would make everything look very consistent.
 
 ## Practice Tasks
 
