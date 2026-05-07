@@ -24,7 +24,7 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
 **[First Text]**  
 **B:**  
 
-- "So, I'll begin with the first text. It talks about **[brief idea of text 1]**."
+- "Sure, I'll begin with the first text. It talks about **[brief idea of text 1]**."
 - "Personally, I think it is **[interesting/important/limited]** because **[your reason]**."
 - Optionally add:
   - "However, one possible drawback could be **[your reason]**."  
@@ -105,21 +105,21 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
 **A:** Hi B, how are you?  
 **B:** Hi A, I’m fine, thanks. And you?  
 **A:** Fine too! Today we are going to discuss three short texts about **protecting the environment**.  
-First, we'll briefly comment on each one, giving our opinions, and then we’ll try to choose the one we find the most relevant. Let’s start!
+First, we'll briefly comment on each one, giving our opinions, and then we’ll try to choose the one we find the most relevant. Would you like to start with one of the texts?
 
 ---
 
 **[First Text]**  
-**A:**  
+**B:**  
 
-- "So, I'll begin with the first text. It talks about **making ecological awareness part of our culture and social habits**."
+- "Sure, I'll begin with the first text. It talks about **making ecological awareness part of our culture and social habits**."
 - "Personally, I think it’s **very important** because **education and awareness can lead to long-term changes in behaviour**."
 - Optionally:  
   - "However, one possible drawback could be that **it takes a long time for cultural changes to happen**."
   - **OR** "But on the downside, **not everyone may be willing to change their habits just by learning about ecology**."
 - "What do you think?"
 
-**B:** (Choose one reaction)
+**A:** (Choose one reaction)
 
 - "I see your point, and I also believe that **education is key to motivating change**."
 - "That's a good point. I hadn't thought about **how slow cultural change can be**."
@@ -130,7 +130,7 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
 ---
 
 **[Second Text]**  
-**B:**  
+**A:**  
 
 - "Moving on to the second text, it focuses on **reducing car use by walking, cycling, or using electric vehicles**."
 - "In my view, it is **extremely relevant** because **transportation is a major source of pollution**."
@@ -139,7 +139,7 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
   - **OR** "Still, I think it misses **the point that in many cities, infrastructure for bikes or electric cars is still lacking**."
 - "What's your opinion on this one?"
 
-**A:** (React naturally, choosing one)
+**B:** (React naturally, choosing one)
 
 - "I agree, reducing emissions from cars would have an immediate impact."
 - "Good point about the infrastructure — not all cities are ready for that change."
@@ -149,7 +149,7 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
 ---
 
 **[Third Text]**  
-**A:**  
+**B:**  
 
 - "Finally, regarding the third text, it mentions **minimizing the use of toxic chemicals to protect clean water sources**."
 - "I find it **very compelling** because **access to clean water is a basic human right, and chemicals can do a lot of hidden damage**."
@@ -157,7 +157,7 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
   - "On the other hand, some people might argue that **industries are the main polluters and individual actions might not be enough**."
 - "Would you agree?"
 
-**B:** (React similarly.)
+**A:** (React similarly.)
 
 - "I completely agree — water is essential for life and we often take it for granted."
 - "True, but I also think that without strong regulations, individual actions won't be enough."
@@ -168,22 +168,22 @@ First, we'll briefly comment on each one, giving our opinions, and then we’ll 
 **[Ending]**
 
 ✅ **If you reach an agreement:**  
-**B:**  
+**A:**  
 
 - "So, it seems we both agree that the most relevant text is number **three**, about protecting clean water, because **it's essential for survival and the impact is immediate**."
 
-**A:**  
+**B:**  
 
 - "Yes, totally! Protecting water feels urgent and should be a priority."
 
 ---
 
 ❌ **If you don’t reach an agreement:**  
-**B:**  
+**A:**  
 
 - "Although we have different opinions, I think we’ve explored all three texts thoroughly."
 
-**A:**  
+**B:**  
 
 - "Absolutely, it was interesting to see the different aspects of environmental protection each text focuses on."
 
@@ -337,6 +337,74 @@ You and Candidate B are attending a seminar on gender and aging issues and have 
 2. Older men are increasingly struggling with loneliness, especially after retirement. Men are less likely to maintain strong social networks. This isolation can have serious effects on mental and physical health.
 
 3. In many cultures, older adults, regardless of gender, are underrepresented in political and leadership roles. Societies often associate leadership with youth. Promoting intergenerational collaboration is crucial.
+
+Remember you must talk about all three texts.  
+You don’t need to reach an agreement, but you should support your opinions with arguments.
+
+
+### TOPIC: LIFE AND FAMILY
+
+You and Candidate B are attending a conference on social change and family life where you have encountered the following statements.
+
+- Talk to each other about how these statements reflect changing life stages and family experiences today.  
+- Then decide together which change you think is having the greatest impact on people's lives.
+
+1. Many young adults are reaching traditional milestones later than previous generations. Leaving home, finding stable employment, and becoming financially independent often take longer than they used to. As a result, the transition into adulthood is becoming more complex and less predictable.
+
+2. More people are choosing to marry or have children later in life, often because of career goals, economic pressure, or personal priorities. This can give individuals more freedom and maturity before starting a family. However, delayed parenthood can also create emotional, financial, and biological challenges.
+
+3. Longer life expectancy means that more adults are caring for elderly parents while also supporting children or teenagers. This so-called "sandwich generation" often faces stress, time pressure, and difficult decisions about responsibility and care. At the same time, it is reshaping the meaning of family support across generations.
+
+Remember you must talk about all three texts.  
+You don’t need to reach an agreement, but you should support your opinions with arguments.
+
+
+### TOPIC: SOCIAL ISSUES
+
+You and Candidate B are attending a forum on current social challenges where you have come across the following statements.
+
+- Talk to each other about how these statements highlight different social issues affecting society today.  
+- Then decide together which issue you believe should be addressed most urgently.
+
+1. In many cities, housing has become increasingly unaffordable for ordinary workers, students, and young families. Rising rents and property prices are forcing people to live in overcrowded conditions or move far from their workplaces. Housing insecurity is becoming a major source of inequality.
+
+2. Social exclusion continues to affect vulnerable groups such as migrants, people with disabilities, and the long-term unemployed. Limited access to education, transport, and job opportunities can trap people in cycles of disadvantage. Many experts argue that inclusion requires not only financial support but also structural change.
+
+3. The digital divide remains a serious problem despite technological progress. People without reliable internet access or digital skills are increasingly cut off from education, employment, public services, and social participation. As more aspects of life move online, digital exclusion can deepen existing inequalities.
+
+Remember you must talk about all three texts.  
+You don’t need to reach an agreement, but you should support your opinions with arguments.
+
+
+### TOPIC: COMMUNICATION AND MASS MEDIA
+
+You and Candidate B are attending a seminar on media and public communication where you have read the following statements.
+
+- Talk to each other about how these statements show different changes in communication and mass media.  
+- Then decide together which development you think is influencing society the most.
+
+1. Social media platforms have transformed the way people communicate, share opinions, and access information. News spreads faster than ever, and ordinary users can reach huge audiences in seconds. However, this speed also makes it easier for misinformation to circulate widely before it can be corrected.
+
+2. Traditional mass media such as television, radio, and newspapers are adapting to a digital environment in which audiences expect constant updates and personalized content. This has increased competition for attention and encouraged more sensationalist headlines. Some critics believe this trend weakens the quality of public debate.
+
+3. Instant messaging and short-form content are changing everyday communication habits, especially among younger generations. People often prefer brief voice notes, emojis, and short videos to longer conversations or formal writing. While this can make communication faster and more creative, some argue that it reduces depth and clarity.
+
+Remember you must talk about all three texts.  
+You don’t need to reach an agreement, but you should support your opinions with arguments.
+
+
+### TOPIC: CRIME
+
+You and Candidate B are attending a conference on crime and public safety where you have encountered the following statements.
+
+- Talk to each other about how these statements reflect different challenges related to crime today.  
+- Then decide together which challenge you think societies should prioritize.
+
+1. Cybercrime has become one of the fastest-growing forms of criminal activity, ranging from identity theft and online fraud to ransomware attacks against hospitals and businesses. These offences can be committed across borders and are often difficult to investigate. Law enforcement agencies need increasingly sophisticated tools to keep up with offenders.
+
+2. There is an ongoing debate about whether criminal justice systems should focus more on punishment or rehabilitation. Supporters of tougher sentencing argue that it acts as a deterrent, while others believe that education, therapy, and reintegration programmes are more effective in reducing recidivism. The balance between public protection and second chances remains controversial.
+
+3. Governments are expanding the use of surveillance technologies such as facial recognition, CCTV networks, and predictive policing systems in order to prevent crime. Although these tools may help detect suspicious activity, they also raise concerns about civil liberties, discrimination, and the presumption of innocence. The ethical implications are becoming increasingly difficult to ignore.
 
 Remember you must talk about all three texts.  
 You don’t need to reach an agreement, but you should support your opinions with arguments.
@@ -720,3 +788,95 @@ You are attending a conference on social trends with your partner and decide to 
 
 - Discuss how aging is perceived differently across genders.
 - Make predictions and speculate about how attitudes toward aging may change.
+
+### Practice Task 10: LIFE AND FAMILY
+
+**TOPIC: LIFE AND FAMILY**  
+**CHANGING LIFE STAGES**
+
+You read the following text in a news article:
+
+> The traditional sequence of life stages is changing significantly in many societies. In the past, people were generally expected to finish their education, find stable employment, leave home, marry, have children, and settle into adult life at a relatively young age. Today, however, these milestones are often delayed or experienced in a different order. Economic uncertainty, longer periods of study, and changing personal values have made the transition into adulthood more gradual and less predictable.
+>
+> At the same time, increased life expectancy is transforming later stages of life as well. Many adults now spend years supporting both younger and older generations, while older people are remaining active for longer and redefining what aging looks like. These changes are creating new opportunities for independence and flexibility, but they are also generating pressure, instability, and uncertainty about what a "normal" life path should be.
+
+You are attending a conference on family and social trends with your partner and decide to inform them about the contents of the previous text and give your opinion about it.
+
+**TASK ONE: ORAL MEDIATION**
+
+- Explain what you have read in your own words.
+- Identify the main idea of the article.
+
+**TASK TWO: PRODUCTION**
+
+- Discuss how life stages and family roles are changing today.
+- Make predictions and speculate about what family life may be like in the future.
+
+### Practice Task 11: SOCIAL ISSUES
+
+**TOPIC: SOCIAL ISSUES**  
+**INEQUALITY AND EXCLUSION**
+
+You read the following text in a news article:
+
+> Social inequality remains one of the defining challenges of modern societies. Although many countries have experienced economic growth, the benefits have not been shared equally. Rising living costs, precarious employment, and unequal access to housing, education, and healthcare have left many people feeling increasingly vulnerable. In urban areas in particular, entire communities can be pushed to the margins despite living close to wealth and opportunity.
+>
+> Experts also warn that exclusion is not only economic. Discrimination, limited mobility, and unequal access to digital tools can prevent people from fully participating in society. Addressing these problems requires more than temporary aid; it demands long-term policies that promote inclusion, social cohesion, and equal opportunities. Without meaningful action, existing divides may become even more entrenched in the future.
+
+You are attending a forum on social development with your partner and decide to inform them about the contents of the previous text and give your opinion about it.
+
+**TASK ONE: ORAL MEDIATION**
+
+- Explain what you have read in your own words.
+- Identify the main idea of the article.
+
+**TASK TWO: PRODUCTION**
+
+- Discuss the causes and consequences of social exclusion.
+- Make predictions and speculate about how social inequalities may evolve in the future.
+
+### Practice Task 12: COMMUNICATION AND MASS MEDIA
+
+**TOPIC: COMMUNICATION AND MASS MEDIA**  
+**MEDIA IN THE DIGITAL AGE**
+
+You read the following text in a news article:
+
+> Communication has been transformed by digital media, which allow information to travel instantly across the world. Social networks, streaming platforms, podcasts, and online newspapers have expanded access to news and given individuals more opportunities to express their views publicly. As a result, audiences are no longer passive consumers of media content, but active participants in creating, sharing, and commenting on it.
+>
+> However, this new media environment also presents serious challenges. The pressure to capture attention has encouraged sensationalism, while the rapid circulation of content has made misinformation harder to control. In addition, algorithms often expose users only to ideas that confirm their existing beliefs, which can intensify polarization. Many analysts argue that media literacy is becoming essential if citizens are to communicate responsibly and evaluate information critically.
+
+You are attending a media studies event with your partner and decide to inform them about the contents of the previous text and give your opinion about it.
+
+**TASK ONE: ORAL MEDIATION**
+
+- Explain what you have read in your own words.
+- Identify the main idea of the article.
+
+**TASK TWO: PRODUCTION**
+
+- Discuss how digital media have changed the way people communicate and receive information.
+- Make predictions and speculate about the future of mass media.
+
+### Practice Task 13: CRIME
+
+**TOPIC: CRIME**  
+**CRIME AND CRIMINAL JUSTICE**
+
+You read the following text in a news article:
+
+> Crime is evolving alongside technology and social change, creating new challenges for criminal justice systems. While traditional offences such as burglary and assault remain important concerns, cybercrime, financial fraud, and organized online offences are becoming increasingly prominent. These crimes can affect thousands of victims at once, cross national borders, and be difficult to trace, which puts pressure on law enforcement agencies and legal frameworks.
+>
+> At the same time, there is continuing debate over the most effective response to offending. Some people argue that harsher penalties are necessary to deter crime and protect the public, whereas others emphasize rehabilitation, restorative justice, and the prevention of recidivism. Surveillance technologies and data-driven policing are also expanding, but they raise questions about privacy, bias, and the risk of over-policing. Finding a fair balance between security, justice, and individual rights is becoming more complex.
+
+You are attending a justice and public policy conference with your partner and decide to inform them about the contents of the previous text and give your opinion about it.
+
+**TASK ONE: ORAL MEDIATION**
+
+- Explain what you have read in your own words.
+- Identify the main idea of the article.
+
+**TASK TWO: PRODUCTION**
+
+- Discuss the main challenges that crime poses today and how societies should respond.
+- Make predictions and speculate about how crime prevention and criminal justice may develop in the future.
